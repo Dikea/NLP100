@@ -32,12 +32,11 @@
 
 
 
-## 资料下载
+--- 
 
-扫码关注公众号
+## 学习交流群
 
-<div align="center"><img src="images/gongzhonghao.png" height="200"></div>
-
+添加微信好友 `2842721963`，备注「nlp100」，加入学习交流群。
 
 ## 版权问题
 
