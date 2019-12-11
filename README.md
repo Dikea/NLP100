@@ -32,9 +32,17 @@
 
 
 
+## 资料下载
+
+扫码关注公众号
+
+<div align="center"><img src="images/gongzhonghao.png" height="200"></div>
+
+
 ## 版权问题
 
 **未经授权，禁止转载，翻版必究。**
+
 
 ## 参考文献
 
