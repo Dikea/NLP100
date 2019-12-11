@@ -10,7 +10,7 @@
 
 英语称谓为 Natural Language Processing，简称 NLP。**自然语言**指的是生活中人们使用的语言，如中文、英语，**处理**包含了对语言文本的分析、理解和生成等部分。
 
-<div align="center"><img src="images/001.png" height="200"></div>
+<div align="center"><img src="images/001.png" height="400"></div>
 
 > 自然语言处理的主要任务有哪些？
 
@@ -28,8 +28,6 @@
 - 自动摘要
 - 文本逻辑推理
 - 命名实体识别
-
-> 
 
 
 ## 版权问题
