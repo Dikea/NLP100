@@ -14,7 +14,7 @@
 
 > 自然语言处理的主要任务有哪些？
 
-<div align="center"><img src="images/002.png" height="200"></div>
+<div align="center"><img src="images/002.png" height="300"></div>
 
 > 文本分词的常见方法？
 
