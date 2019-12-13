@@ -55,6 +55,15 @@
 - [中科院计算所NLPIR](http://ictclas.nlpir.org/nlpir/)
 
 
+### 词的数学表示有哪些
+
+### 有名的 NLP 工具包
+
+NLP 工具包一般包含了常见的文本处理功能，例如文本分词、词性标注、语法分析、文本分类等。国内外有一些有名的 NLP 工具包，如下：
+
+- [NLTK](https://www.nltk.org/) 该工具包常用于教学，官方的学习资料可[在线阅读](http://www.nltk.org/book/)；
+- [CoreNlP]()
+
 
 ## 学习交流群
 
