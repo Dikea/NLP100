@@ -60,7 +60,9 @@
 - [中科院计算所NLPIR](http://ictclas.nlpir.org/nlpir/)
 
 
-### 词语怎样被数学方式表示
+### 词语可以通过哪些数学方式表示
+
+ToDo
 
 
 ### 有名的 NLP 工具包
