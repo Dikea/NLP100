@@ -58,7 +58,6 @@
 - [结巴分词](https://github.com/yanyiwu/cppjieba)
 - [Stanford分词器](https://nlp.stanford.edu/software/segmenter.shtml)
 - [清华大学THULAC](https://github.com/thunlp/THULAC)
-- [哈工大LTP](https://github.com/thunlp/THULAC)
 - [中科院计算所NLPIR](http://ictclas.nlpir.org/nlpir/)
 
 
